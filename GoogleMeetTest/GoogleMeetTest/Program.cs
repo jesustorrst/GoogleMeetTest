@@ -111,7 +111,7 @@ namespace GoogleMeetTest
                 //calendarEvent.EventType = "default";
 
 
-                EventsResource.InsertRequest request = service.Events.Insert(calendarEvent, "email@example.com");
+                EventsResource.InsertRequest request = service.Events.Insert(calendarEvent, "email1@example.com");
                 request.ConferenceDataVersion = 0;
                 Event createEvent = request.Execute();
                 string url = createEvent.HangoutLink;

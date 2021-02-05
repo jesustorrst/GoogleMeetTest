@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGoogleMeet", "TestGoogleMeet\TestGoogleMeet.csproj", "{36B4C7FC-46D8-4481-BD7D-04468D4EC20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B4C7FC-46D8-4481-BD7D-04468D4EC20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B4C7FC-46D8-4481-BD7D-04468D4EC20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B4C7FC-46D8-4481-BD7D-04468D4EC20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B4C7FC-46D8-4481-BD7D-04468D4EC20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950054A1-F541-4397-9C8A-E2CB6FC3BB6E}
+	EndGlobalSection
+EndGlobal
